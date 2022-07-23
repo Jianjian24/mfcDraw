@@ -1,0 +1,23 @@
+﻿Build started 2022/7/23 11:09:13.
+     1>Project "D:\code\mfcCode\testCode\01_CDialog\CLTDraw\CLTDraw.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CLTDraw.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CLTDraw.cpp CLTDrawDlg.cpp
+         CLTDrawDlg.cpp
+     1>d:\code\mfccode\testcode\01_cdialog\cltdraw\cltdrawdlg.cpp(178): warning C4129: 'm' : unrecognized character escape sequence
+     1>d:\code\mfccode\testcode\01_cdialog\cltdraw\cltdrawdlg.cpp(263): warning C4805: '==' : unsafe mix of type 'BOOL' and type 'bool' in operation
+         Generating Code...
+         Compiling...
+         CLTDraw.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\code\mfcCode\testCode\01_CDialog\Debug\CLTDraw.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\code\mfcCode\testCode\01_CDialog\Debug\CLTDraw.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\code\mfcCode\testCode\01_CDialog\Debug\CLTDraw.lib" /MACHINE:X86 Debug\CLTDraw.res
+         Debug\CLTDraw.obj
+         Debug\CLTDrawDlg.obj
+         Debug\InfoFile.obj
+         Debug\stdafx.obj
+         CLTDraw.vcxproj -> D:\code\mfcCode\testCode\01_CDialog\Debug\CLTDraw.exe
+     1>Done Building Project "D:\code\mfcCode\testCode\01_CDialog\CLTDraw\CLTDraw.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.62
